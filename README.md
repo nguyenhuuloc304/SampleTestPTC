@@ -1,1 +1,1 @@
-# SampleTestPTC
+#The scope is just make simple restful APIs for Product CRUD using mediatR for CQRS pattern and apply Clean Architecture. This is not a framework for a realistic microservices project which need to do a lot of others such as logging and so on.
